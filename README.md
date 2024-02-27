@@ -5,7 +5,7 @@
 [xbar](https://github.com/matryer/xbar) plugins plugin. Display Todoist's task list in the menu bar.
 
 ## Required
-```
+```sh
 ## deno
 brew install deno
 ```
