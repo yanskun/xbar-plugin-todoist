@@ -1,0 +1,14 @@
+{
+  "version": "3",
+  "remote": {
+    "https://cdn.skypack.dev/-/dayjs@v1.11.10-BxxzuhFNawSjQut5bjUi/dist=es2019,mode=imports/optimized/dayjs.js": "596a73ea537b1d5350ff8ccdb35fdb86ed5b8c50112f8d2ceabeda4ab33f0458",
+    "https://cdn.skypack.dev/dayjs@1.11.10": "73d8aacc3ccee9f25f6baefe7cfb63468148cc07a3b654fd9157647b709d41eb",
+    "https://deno.land/std@0.203.0/dotenv/load.ts": "0636983549b98f29ab75c9a22a42d9723f0a389ece5498fe971e7bb2556a12e2",
+    "https://deno.land/std@0.203.0/dotenv/mod.ts": "1da8c6d0e7f7d8a5c2b19400b763bc11739df24acec235dda7ea2cfd3d300057",
+    "https://deno.land/x/xbar@v2.1.0/mod.ts": "b08531fa029a1379e4f1b5a4fa20c1078b44e1fdebb1cb7c65670753471f7b19",
+    "https://deno.land/x/xbar@v2.1.0/src/accessibility.ts": "b21139f04b2a21bea69ed9f1751c75abffd946a6cb2afb5677a54ef75ad622eb",
+    "https://deno.land/x/xbar@v2.1.0/src/format.ts": "65a638fc37656700f82aa307f5687312ab2c66ac0e3b55eef1e06fd5662a5e67",
+    "https://deno.land/x/xbar@v2.1.0/src/index.ts": "0978a2c2b59a88dd84e69fc37ffe4745e5f003c924d1a0268336d7d70bf5ab2b",
+    "https://deno.land/x/xbar@v2.1.0/src/utility.ts": "1941d83da4c271bb4f89713e9a7abb3900918c6ed20c35329fe1a962a983755c"
+  }
+}
